@@ -13,14 +13,21 @@
 
 - ⚡ Fun fact **Me : Statistician → Tech😉**
 
+<h3 align="left">My Coding Profiles :</h3>
+<p align="left">
+<a href="https://www.leetcode.com/Avi_G" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="avi_g" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/avi_g10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="avi_g10" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/avi_g10/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="avi_g10/profile" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Avi_G10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="avi_g10" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/Avi_G" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="avi_g" height="30" width="40" /></a>
+</p>
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/avig10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avijit ghosh" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/avi_g10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="avi_g10" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/Avi_G" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="avi_g" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/Avi_G10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="avi_g10" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/Avi_G" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="avi_g" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/avi_g10/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="avi_g10/profile" height="30" width="40" /></a>
+<a href="https://www.instagram.com/__a__v__i__j__i__t__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avijit ghosh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
