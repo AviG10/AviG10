@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avig10&label=Profile%20views&color=0e75b6&style=flat" alt="avig10" /> </p>
 
-- 🔭 I’m currently working on **Social Media App**
+- 🔭 I’m currently working on **A DEBUGGING PLATFORM**
 
 - 🌱 I’m currently learning **ReactJS, Machine Learning**
 
