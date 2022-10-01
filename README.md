@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **avijitghosh919@gmail.com**
 
-- ⚡ Fun fact **Me : Statistician → Tech😉**
+- ⚡ Fun fact **Me : Statistician → Tech**
 
 <h3 align="left">My Coding Profiles :</h3>
 <p align="left">
