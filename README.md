@@ -5,13 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avig10&label=Profile%20views&color=0e75b6&style=flat" alt="avig10" /> </p>
 
-- 🔭 I’m currently working on **A DEBUGGING PLATFORM**
+- 🔭 I’m currently working on **tHealth App**
 
-- 🌱 I’m currently learning **ReactJS, Machine Learning**
+- 🌱 I’m currently learning **ReactJS, React Native**
 
 - 📫 How to reach me **avijitghosh919@gmail.com**
-
-- ⚡ Fun fact **Me : Statistician → Tech**
 
 <h3 align="left">My Coding Profiles :</h3>
 <p align="left">
