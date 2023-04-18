@@ -1,13 +1,11 @@
 [![MasterHead](https://animated-gif-creator.com/images/01/top-tools-to-improve-work-productivity-teksun_80.gif)](https://AviG10.io)
 <h1 align="center">Hi 👋, I'm AVIJIT GHOSH</h1>
-<h3 align="center">Full Stack Web Developer  |  NIT TRICHY'23</h3>
+<h3 align="center">SDE Intern @ Verizon | Full Stack Web Developer  |  NIT TRICHY'23</h3>
 <img align ="right" alt = "coding" width = "400" src = "https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avig10&label=Profile%20views&color=0e75b6&style=flat" alt="avig10" /> </p>
 
-- 🔭 I’m currently working on **tHealth App**
-
-- 🌱 I’m currently learning **ReactJS, React Native**
+- 🌱 I’m currently learning **ReactJS, Spring Boot**
 
 - 📫 How to reach me **avijitghosh919@gmail.com**
 
